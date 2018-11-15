@@ -1,0 +1,46 @@
+#header {
+  height: 50px;
+text-align: right;
+}
+
+#main {
+  height: 440px;
+  background-color: white;
+  margin-top: 250px;
+  margin-left: 600px;
+}
+
+#footer {
+  height: 35px;
+  background-color: #f3f3f3;
+}
+
+
+#levo {
+float: left;
+}
+
+#desno {
+float: right;
+}
+
+a {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+font-size: 15px;
+padding: 10px;
+}
+
+button:hover {
+font-weight: 800;
+}
+
+input {
+  width: 520px;
+  margin-left: -130px;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
